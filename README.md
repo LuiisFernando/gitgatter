@@ -4,7 +4,7 @@ Gitgatter is app to add GitHub users and lists the starred projects
 
 Developed in React Native
 
-#Libs
+# Libs
 ```
 axios
 prop-types
