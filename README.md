@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgsafe.org/c0/c068b9f6f3.gif">
+  <img src="https://media.giphy.com/media/Lo5Xam8zD7OsHAih7E/giphy.gif">
 </p>
 
 # gitgatter
